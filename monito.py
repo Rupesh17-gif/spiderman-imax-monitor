@@ -6,7 +6,7 @@ CHAT_ID = os.getenv("CHAT_ID")
 
 URLS = [
     "https://www.pvrcinemas.com/moviesessions/Chennai/SPIDERMAN-BRAND-NEW-DAY/35294",
-    "https://in.bookmyshow.com/movies/chennai/spider-man-brand-new-day/buytickets/ET00447840/20260730"
+    "https://in.bookmyshow.com/movies/chennai/spider-man-brand-new-day/buytickets/ET00447840/20260730?etCodes=*&language=English&refEventCode=ET00447840"
 ]
 
 found = False
