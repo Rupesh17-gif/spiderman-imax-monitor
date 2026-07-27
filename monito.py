@@ -33,7 +33,7 @@ for url in URLS:
     except Exception as e:
         print(e)
 
-if found:
+if true:
 
     requests.post(
         f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
